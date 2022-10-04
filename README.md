@@ -18,3 +18,7 @@ Deliverable 3: A Written Report on the Analysis (README.md)
 # Final Conclusion 
 
 # Resources 
+
+* Google Colaboratory 
+* PG Admin
+* Amazon Web Services
