@@ -14,6 +14,7 @@ Deliverable 2: Determine Bias of Vine Reviews (python, pandas, or sql to do anal
 Deliverable 3: A Written Report on the Analysis (README.md)
 
 # Analysis
+For this analysis, you'll determine if having a paid Vine review makes a difference in the percentage of 5-star reviews.
 
 Overview of the analysis of the Vine program:
 
