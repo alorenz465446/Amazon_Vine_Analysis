@@ -27,6 +27,13 @@ Summary:
 The summary states whether or not there is bias, and the results support this statement (2 pt)
 An additional analysis is recommended to support the statement (2 pt)
 
+Ho: no differences in vine 5star vine reviews (paid vs. unpaid)
+Ha: there is a difference 
+
+finding: The percentage of 5 star ratings is the same when comparing vine reviews to not_vine reviews 
+
+There is a reason to believe that 5star ratings are tied to whether reviewers are paid or unpaid
+
 # Final Conclusion & Additional Thoughts
 
 ...
