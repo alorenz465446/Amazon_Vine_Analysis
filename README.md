@@ -36,4 +36,3 @@ An additional analysis is recommended to support the statement (2 pt)
 * Google Colaboratory 
 * PG Admin
 * Amazon Web Services
-* CSV files
