@@ -16,19 +16,21 @@ I have chosen to do my analysis on a datset about shoe reviews from Amazon. Usin
 Ho: no difference in vine 5 star reviews (paid = unpaid) </br>
 Ha: there is a difference (paid <> unpaid)
 
-* Finding: The percentage of 5 star reviews is slightly skewed when comparing reviews 
+**Finding: The percentage of 5 star reviews is slightly skewed when comparing the results 
 
 ### Results: 
 
 <img width="400" alt="number_vine_reviews" src="https://user-images.githubusercontent.com/107652317/194785697-9da5131b-cc4d-4fe6-8123-8bb1d8032b91.PNG">
 
-* There were 22 Vine reviews and 26,987 non-Vine reviews
+* 22 Vine reviews 
+* 26,987 non-Vine reviews
 
 
 <img width="618" alt="paid_5star" src="https://user-images.githubusercontent.com/107652317/194785786-67d75251-d4a4-459c-a191-766011862ee7.PNG">
 <img width="648" alt="unpaid_5star" src="https://user-images.githubusercontent.com/107652317/194785794-dbf3f108-52e2-4fe1-9dad-0c02aeed32a4.PNG">
 
-* 13 Vine reviews were 5 stars and 14,475 non-Vine reviews were 5 stars
+* 13 Vine reviews were 5 stars 
+* 14,475 non-Vine reviews were 5 stars
 
 
 <img width="537" alt="percentage_paid_5star" src="https://user-images.githubusercontent.com/107652317/194785752-2a1a0827-e3d9-4464-9e59-4f9503d75d8c.PNG">
