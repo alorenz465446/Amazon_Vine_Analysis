@@ -16,7 +16,7 @@ I have chosen to do my analysis on a datset about shoe reviews from Amazon. Usin
 Ho: no difference in vine 5 star reviews (paid = unpaid) </br>
 Ha: there is a difference (paid <> unpaid)
 
-**Finding: The percentage of 5 star reviews is slightly skewed when comparing the results 
+**Finding: The percentage of 5 star reviews is slightly skewed when comparing the results** 
 
 ### Results: 
 
